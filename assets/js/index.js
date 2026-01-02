@@ -61,17 +61,20 @@
     $("body").on("click", ".confirm-btn", function() {
         // Danh sách nhạc Lofi (Bạn có thể thêm link mp3 vào đây)
         const playlist = [{
-            title: "Chill Lofi Study",
-            url: "https://cdn.pixabay.com/download/audio/2022/05/27/audio_1808fbf07a.mp3"
+            title: "0 AI NGHĨ - Wxrdie ",
+            url: "https://files.catbox.moe/ayyoc1.mp3"
         }, {
-            title: "Midnight Forest",
-            url: "https://cdn.pixabay.com/download/audio/2022/02/07/audio_6c7c093844.mp3"
+            title: "TRỞ VỀ - Wxrdie",
+            url: "https://files.catbox.moe/2wbx32.mp3"
         }, {
-            title: "Coding in the Rain",
-            url: "https://cdn.pixabay.com/download/audio/2022/03/09/audio_c8c8a73467.mp3"
+            title: "Phép Màu (Đàn cá gỗ OST) - MAYDAYs",
+            url: "https://files.catbox.moe/1qfko0.mp3"
         }, {
-            title: "Empty Mind",
-            url: "https://cdn.pixabay.com/download/audio/2022/01/18/audio_d0a13f69d2.mp3"
+            title: "Pin Dự Phòng - Dương Domic",
+            url: "https://files.catbox.moe/0zudfs.mp3"
+        }, {
+            title: "Không Buông - Hngle",
+            url: "https://files.catbox.moe/amk1s1.mp3"
         }];
 
         // Chọn ngẫu nhiên 1 bài trong danh sách
@@ -248,7 +251,7 @@
             )
         }
     }
-    (["Anh đây chẳng thích nhiều lời, nhìn em là biết cả đời của anh.", "Sator - Web Developer", "Chào mừng bạn đến với Profile của tôi"]);
+    (["Anh đây chẳng thích nhiều lời, nhìn em là biết cả đời của anh.", "Danhhh - Web Developer", "Chào mừng bạn đến với Profile của tôi"]);
     setInterval( () => b.Description(), 7e3),
     $(".td-lock-screen").click(function() {
         $(".td-welcome").slideUp("slow"),
@@ -333,7 +336,7 @@
         k.endLoading()
     }
     ),
-    console.log("%c My Github %c https://github.com/WusThanhDieu", "color:#fff;background:linear-gradient(90deg,#448bff,#44e9ff);padding:5px 0;", "color:#000;background:linear-gradient(90deg,#44e9ff,#ffffff);padding:5px 10px 5px 0px;");
+    console.log("%c My Github %c https://github.com/ducanh440055-ux", "color:#fff;background:linear-gradient(90deg,#448bff,#44e9ff);padding:5px 0;", "color:#000;background:linear-gradient(90deg,#44e9ff,#ffffff);padding:5px 10px 5px 0px;");
     var _, C, T = new Image;
     function E(n, t, e, i, h) {
         this.x = n,
